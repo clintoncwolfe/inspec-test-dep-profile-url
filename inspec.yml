@@ -6,4 +6,4 @@ supports:
   platform: os
 depends:
   - name: ssh-baseline
-    url: https://github.com/clintoncwolfe/inspec-test-dep-profile-url
+    url: https://github.com/dev-sec/ssh-baseline
