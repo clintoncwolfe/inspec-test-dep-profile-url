@@ -1,0 +1,9 @@
+name: inspec-test-dep-profile-url
+license: Apache-2.0
+summary: An inspec profile that depends on a 3rd party profile by means of a url dependency
+version: 0.1.0
+supports:
+  platform: os
+depends:
+  - name: ssh-baseline
+    url: https://github.com/clintoncwolfe/inspec-test-dep-profile-url
